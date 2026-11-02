@@ -75,8 +75,6 @@ I run production Kubernetes for a global e-commerce group: multi-cluster **Argo 
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/helm/0F1689" height="48" alt="Helm"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/keda/326CE5" height="48" alt="KEDA"/>
-&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="48" alt="Dynatrace"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" alt="Datadog"/>
