@@ -67,7 +67,7 @@ I run production Kubernetes for a global e-commerce group: multi-cluster **Argo 
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,grafana,linux,bash,python,git&perline=10" alt="Tech icons"/>
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,grafana,linux,bash,python,git,argocd&perline=11" alt="Tech icons"/>
 
 <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
