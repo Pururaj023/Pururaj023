@@ -71,7 +71,7 @@ I run production Kubernetes for a global e-commerce group: multi-cluster **Argo 
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" alt="ArgoCD"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/keda/326CE5" height="48" alt="KEDA"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="48" alt="Dynatrace"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" alt="Datadog"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/elastic/005571" height="48" alt="Elastic"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" height="48" alt="OpenTelemetry"/>
+<img src="https://devicons.io/devicons/icons/argocd.svg" width="48" height="48" alt="ArgoCD"/> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=helm" width="48" height="48" alt="Helm"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/keda/326CE5" width="48" height="48" alt="KEDA"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="48" height="48" alt="Dynatrace"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/datadog/632CA6" width="48" height="48" alt="Datadog"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/elastic/00A9E0" width="48" height="48" alt="Elastic"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" width="48" height="48" alt="OpenTelemetry"/>
 
 </div>
 
