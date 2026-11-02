@@ -65,17 +65,13 @@ I run production Kubernetes for a global e-commerce group: multi-cluster **Argo 
 
 <img src="./assets/marquee.svg" width="100%" alt="Scrolling tech stack"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,grafana,linux,bash,python,git&perline=10" alt="Tech icons"/>
+<img src="https://skillicons.dev/icons?i=azure,aws,kubernetes,docker,terraform,githubactions,git,linux,bash,python,grafana,jenkins,helm&perline=7" alt="Cloud and DevOps icons"/>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/argo-cd.png"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+<br/><br/>
+
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" height="48" alt="ArgoCD"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/keda/326CE5" height="48" alt="KEDA"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="48" alt="Dynatrace"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" alt="Datadog"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/elastic/005571" height="48" alt="Elastic"/> &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" height="48" alt="OpenTelemetry"/>
 
 </div>
 
