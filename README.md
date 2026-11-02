@@ -140,6 +140,10 @@ GitHub Actions + Azure
 
 ---
 
+<div align="center">
+  <img src="./meme.gif" width="300" alt="DevOps Meme"/>
+</div>
+
 <!-- ========== FOOTER ========== -->
 
 <div align="center">
