@@ -4,7 +4,7 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Pururaj Choudhary - Cloud & DevOps Engineer"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pururaj023">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=55&lines=Shipping+70%2B+microservices+with+GitOps;Zero-downtime+rollouts+across+US+%7C+UK+%7C+DE;Kubernetes+%E2%80%A2+Azure+%E2%80%A2+Argo+CD+%E2%80%A2+Terraform;RHCE+certified.+Linux+to+the+bone.;Automate+Everything.+Monitor+Everything." alt="Typing animation" />
 </a>
 
@@ -13,7 +13,7 @@
 <a href="https://prc-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-prc--portfolio.netlify.app-38BDF8?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0F172A"/></a>
 <a href="https://www.linkedin.com/in/pururaj2301"><img src="https://img.shields.io/badge/LinkedIn-pururaj2301-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
 <a href="mailto:pururajchoudhary2301@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS&labelColor=0F172A"/>
+<img src="https://komarev.com/ghpvc/?username=Pururaj023&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS&labelColor=0F172A"/>
 
 </div>
 
@@ -67,7 +67,15 @@ I run production Kubernetes for a global e-commerce group: multi-cluster **Argo 
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,helm,argocd,githubactions,grafana,linux,bash,python,git&perline=12" alt="Tech icons"/>
+<img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,grafana,linux,bash,python,git&perline=10" alt="Tech icons"/>
+
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 
 </div>
 
@@ -221,20 +229,20 @@ timeline
 
 ## 📊 GitHub Pulse
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1226" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1226" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pururaj023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1226" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pururaj023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1226" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0B1226" />
+<img src="https://streak-stats.demolab.com?user=Pururaj023&theme=tokyonight&hide_border=true&background=0B1226" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1226&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pururaj023&theme=tokyo-night&hide_border=true&area=true&bg_color=0B1226&custom_title=Contribution%20Graph" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pururaj023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -247,9 +255,9 @@ timeline
 ## 🐍 The Snake Eats My Commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pururaj023/Pururaj023/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pururaj023/Pururaj023/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Pururaj023/Pururaj023/output/github-snake-dark.svg" />
 </picture>
 
 </div>
